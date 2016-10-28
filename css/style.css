@@ -1737,3 +1737,10 @@ team_grid1_agileits h4{
 .p_color{
 	color: #333;
 }
+.p_color i{
+	padding-right: 4px;
+	font-size: 1.5em;
+}
+.p_color i:last-child{
+	padding-left: 4px;
+}
