@@ -1,0 +1,45 @@
+/* bootstrap.custom.css */
+.accordion{
+    border-bottom: 1px solid #ddd;
+    padding: 12px;
+}
+
+.accordion .num{ margin: 6px 0; float: left;}
+img{ vertical-align: inherit;}
+
+.text-gray {
+    font-size: 12px;
+    margin: 12px 0;
+    line-height: 24px;
+    text-align: justify;
+    color: #8d939d;
+}
+
+.badge {
+    padding: 4px 8px;
+    font-weight: 100;
+    font-size: 12px;
+    color: #8d939d;
+    background-color: #ffffff;
+    border: solid 1px #d6dbe2;
+    border-radius: 100px;
+}
+.modal-dialog{ margin: 30% 30px 0 !important;}
+
+.modal-content-square {
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    outline: 0;
+
+}
+.modal-content-square .modal-header{ background-color: #4384e9; min-height: 120px;}
+.modal-content-square img{ border: 1px solid #d8d8d8;}
+.modal-content-square .modal-body p{ max-height: 260px; overflow: auto; padding-right: 12px; line-height: 26px; font-size: 12px; text-align: justify;}
+
+.btn{ border-radius: 0; border: none; margin: 0 !important; height: 50px; font-size: 16px !important; position: fixed; bottom: 0; left: 0;}
+.close {
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
