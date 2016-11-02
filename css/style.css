@@ -358,7 +358,7 @@ body a:hover{
 	line-height:1.8em;
 }
 .about_grid_right_w3agile p span{
-	display:block;
+	display:block!important;
 	margin:1em 0 0;
 }
 .agileinfo_about_grids_bottom_right{
@@ -1742,10 +1742,15 @@ team_grid1_agileits h4{
 	font-size: 1.5em;
 	color: #999;
 }
-.p_color i:last-child{
+/*.p_color i:last-child{
 	padding-left: 4px;
 	color: #FFB445;
-}
+}*/
 .w3l_team_grd{
 	background: #ddd;
+}
+.banner-info i{
+	display: block;
+	padding-top: 10px;
+	font-style: normal;
 }
