@@ -1391,7 +1391,7 @@ a.play-icon span {
 }
 @media (max-width:414px){
 	.banner-info h2 {
-		font-size: 1.4em;
+		font-size: 1.1em;
 	}
 	.navbar-default .navbar-brand {
 		font-size: 1em;
@@ -1532,7 +1532,7 @@ a.play-icon span {
 		font-size: 13px;
 	}
 	.banner-info h2 {
-		font-size: 1.2em;
+		font-size: 1em;
 	}
 	p,.contact-grids input[type="text"],.footer-grid input[type="email"],.footer-grid p,.footer-grid ul li, .contact-grids input[type="email"], .contact-grids textarea{
 		font-size: 13px;
